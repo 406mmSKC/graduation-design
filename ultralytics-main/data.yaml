@@ -1,0 +1,7 @@
+path: F:\YOLOV11\data
+train: images/train
+val: images/val
+
+nc: 3
+
+names: ['prohibitory','warning','mandatory']
